@@ -10,5 +10,5 @@
 
 ### CONFIG
 
-- change postgres connection in file ** config.py **
-- see all function for dB query in ** pypostgresController.py **
+- change postgres connection in file **config.py**
+- see all function for dB query in **pypostgresController.py**
